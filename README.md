@@ -35,4 +35,4 @@ Contributions to this repository are welcome. If you have an idea for an improve
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ViratSrivastava/Stock-Prediction-Using-ML/blob/main/LICENSE.md) file for details.
