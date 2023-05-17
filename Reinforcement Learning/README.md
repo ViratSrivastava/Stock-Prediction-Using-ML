@@ -1,6 +1,11 @@
 ## Reinforcement Learning
 
-We use reinforcement learning to predict stock prices. To get started with this approach, you can clone the `Reinforcement Learning` folder from this repository:
+We use reinforcement learning to predict stock prices. 
+We use Epsilon-Greedy Q-learning
+![image](https://github.com/ViratSrivastava/Stock-Prediction-Using-ML/assets/98209563/57c34161-f147-4ba3-a29d-6b68b2be2210)
+
+
+To get started with this approach, you can clone the `Reinforcement Learning` folder from this repository:
 Install the required libraries using 
 ```
 git clone https://github.com/ViratSrivastava/Stock-Prediction-Using-ML.git cd Stock-Prediction-Using-ML/Reinforcement Learning
