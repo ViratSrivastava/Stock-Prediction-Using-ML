@@ -10,6 +10,8 @@ Stock market prediction is the act of trying to determine the future value of a 
 
 This repository contains implementations of the following machine learning algorithms for stock market prediction:
 - Linear Regression
+- Supervised Learning
+- Reinforced Learning
 - Random Forest
 - Support Vector Machines
 - Neural Networks
