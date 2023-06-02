@@ -1,4 +1,4 @@
-## Linear Regression
+# Stock Prediction using Machine Learning - Linear Regression
 We use Linear regression to predict stock prices. 
 
 To get started with this approach, you can clone the `Linear Regression` folder from this repository:
