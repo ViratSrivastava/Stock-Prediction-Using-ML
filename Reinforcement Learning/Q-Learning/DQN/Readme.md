@@ -1,4 +1,4 @@
-## Reinforcement Learning
+## Reinforcement Learning -  Deep Q Learning (DQN)
 
 We use reinforcement learning to predict stock prices. 
 We use Epsilon-Greedy Q-learning
@@ -8,7 +8,9 @@ We use Epsilon-Greedy Q-learning
 To get started with this approach, you can clone the `Reinforcement Learning` folder from this repository:
 Install the required libraries using 
 ```
-git clone https://github.com/ViratSrivastava/Stock-Prediction-Using-ML.git cd Stock-Prediction-Using-ML/Reinforcement Learning/Q-learning/DQN
+git clone https://github.com/ViratSrivastava/Stock-Prediction-Using-ML.git 
+
+cd Stock-Prediction-Using-ML/Reinforcement Learning/Q-learning/DQN
 ```
 ## Requirements
 
