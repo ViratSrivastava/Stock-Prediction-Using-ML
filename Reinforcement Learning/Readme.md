@@ -58,8 +58,7 @@ For detailed usage instructions, refer to the documentation and example code pro
 
 This repository includes the following reinforcement learning algorithms for stock prediction:
 
-- Q-Learning
-- Deep Q-Network (DQN)
+- Deep Q Learning (DQN)
 - Proximal Policy Optimization (PPO)
 - Deep Deterministic Policy Gradient (DDPG)
 - Hindsight Experience Replay (HER)
