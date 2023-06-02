@@ -20,6 +20,8 @@ Reinforcement learning is a type of machine learning where an agent learns to ta
 
 This repository provides an implementation of various reinforcement learning algorithms applied to stock market data, along with example code and pre-trained models.
 
+<img width="700" alt="RL_types" img src="https://github.com/ViratSrivastava/Stock-Prediction-Using-ML/assets/98209563/7e985d9d-1f03-4aaa-8228-a86451be3e19">
+
 ## Installation
 
 To run the code in this repository, follow these steps:
